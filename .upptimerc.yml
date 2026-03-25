@@ -26,6 +26,56 @@ status-website:
       href: https://steven-geller.com
     - title: GitHub
       href: https://github.com/$OWNER
+  customHeadHtml: |
+    <style>
+      @font-face {
+        font-family: 'JetBrains Mono';
+        src: url('https://steven-geller.com/static/fonts/jetbrains-mono-latin.woff2') format('woff2');
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+      }
+      :root {
+        --body-background-color: #181818;
+        --body-text-color: #eee;
+        --card-background-color: #222;
+        --nav-background-color: #181818;
+        --nav-border-bottom-color: #333;
+        --nav-current-border-bottom-color: #eee;
+        --card-border-color: #333;
+        --down-border-left-color: #eb3b5a;
+        --down-background-color: #3a1520;
+        --degraded-border-left-color: #f7b731;
+        --up-border-left-color: #20bf6b;
+        --tag-color: #181818;
+        --tag-up-background-color: #20bf6b;
+        --tag-down-background-color: #eb3b5a;
+        --tag-degraded-background-color: #f7b731;
+        --change-background-color: #f7b731;
+        --error-button-border-color: #333;
+        --error-button-background-color: #222;
+        --error-button-color: #eee;
+        --submit-button-border-color: #333;
+        --submit-button-background-color: #222;
+        --submit-button-color: #eee;
+        --graph-opacity: 0.9;
+        --graph-filter: none;
+      }
+      body {
+        font-family: 'JetBrains Mono', 'SF Mono', Consolas, monospace !important;
+        font-size: 14px;
+      }
+      h1, h2, h3, h4, h5, h6 {
+        font-family: 'JetBrains Mono', 'SF Mono', Consolas, monospace !important;
+        font-weight: 400;
+      }
+      footer { display: none !important; }
+      nav { border-bottom-width: 1px; }
+      a { transition: opacity 0.15s ease; }
+      a:hover { opacity: 0.7; }
+      article { border-radius: 0; }
+      .container { max-width: 720px; }
+    </style>
 
 assignees:
   - StevenGeller
