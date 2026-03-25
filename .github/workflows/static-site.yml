@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: upptime/status-page@v1.18.0
+      - uses: upptime/status-page@v1.17.0
         env:
           GH_PAT: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
