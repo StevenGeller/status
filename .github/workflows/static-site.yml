@@ -2,15 +2,18 @@ name: Static Site CI
 on:
   schedule:
     - cron: "0 1 * * *"
+  repository_dispatch:
+    types: [static-site]
   workflow_dispatch:
   push:
     branches:
       - main
 jobs:
-  static-site:
+  release:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: upptime/status-page@v1.18.0
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          SECRETS_CONTEXT: ${{ toJson(secrets) }}
