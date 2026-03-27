@@ -4,19 +4,19 @@
     "url": "https://steven-geller.com",
     "icon": "https://steven-geller.com/favicon.ico",
     "slug": "steven-geller-com",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 437,
-    "timeDay": 358,
-    "timeWeek": 437,
-    "timeMonth": 437,
-    "timeYear": 437,
+    "status": "up",
+    "uptime": "95.84%",
+    "uptimeDay": "89.31%",
+    "uptimeWeek": "95.84%",
+    "uptimeMonth": "95.84%",
+    "uptimeYear": "95.84%",
+    "time": 391,
+    "timeDay": 305,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2026-03-27": 3
+      "2026-03-27": 154
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://torus.steven-geller.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/torus.steven-geller.com.ico",
     "slug": "torus",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 234,
-    "timeDay": 343,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "status": "up",
+    "uptime": "95.88%",
+    "uptimeDay": "89.42%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "95.88%",
+    "time": 220,
+    "timeDay": 260,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-03-27": 2
+      "2026-03-27": 152
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://agora.steven-geller.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/agora.steven-geller.com.ico",
     "slug": "agora",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 200,
-    "timeWeek": 192,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "status": "up",
+    "uptime": "95.92%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "95.92%",
+    "uptimeYear": "95.92%",
+    "time": 174,
+    "timeDay": 161,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2026-03-27": 0
+      "2026-03-27": 151
     }
   }
 ]
