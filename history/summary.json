@@ -4,43 +4,47 @@
     "url": "https://steven-geller.com",
     "icon": "https://steven-geller.com/favicon.ico",
     "slug": "steven-geller-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 437,
     "timeDay": 358,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-27": 3
+    }
   },
   {
     "name": "Torus",
     "url": "https://torus.steven-geller.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/torus.steven-geller.com.ico",
     "slug": "torus",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 234,
     "timeDay": 343,
     "timeWeek": 234,
     "timeMonth": 234,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-27": 2
+    }
   },
   {
     "name": "Agora",
     "url": "https://agora.steven-geller.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/agora.steven-geller.com.ico",
     "slug": "agora",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 192,
     "timeMonth": 192,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-27": 0
+    }
   }
 ]
