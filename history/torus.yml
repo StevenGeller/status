@@ -1,7 +1,7 @@
 url: https://torus.steven-geller.com/health
-status: up
-code: 200
-responseTime: 270
-lastUpdated: 2026-03-28T23:11:26.854Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-03-29T02:57:59.369Z
 startTime: 2026-03-25T05:33:15.520Z
 generator: Upptime <https://github.com/upptime/upptime>
